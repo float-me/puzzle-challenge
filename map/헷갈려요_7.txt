@@ -1,0 +1,4 @@
+w   w   ls  l   ls  w   w   ls
+l   l   lib l   lib l   l   l
+l   lb  ls  l   ls  lb  l   w
+l   lp  w   w   w   l   l   w

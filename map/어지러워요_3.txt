@@ -1,0 +1,7 @@
+w   lp  l   l   w
+w   ls  l   l   l
+w   ib  ls  ls  w
+l   lib l   lib lml
+l   lb  ls  w   i
+l   i   i   l   lmu
+w   w   l   l   ls

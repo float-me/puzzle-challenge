@@ -1,0 +1,3 @@
+ls  l   w
+l   lb  l
+l   lp  ls

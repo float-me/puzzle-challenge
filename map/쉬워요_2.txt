@@ -1,0 +1,6 @@
+ls  w   w   w
+ls  w   w   w
+l   ls  lb  l
+lb  l   l   ls
+ls  lb  l   lb
+lp  lb  ls  l
